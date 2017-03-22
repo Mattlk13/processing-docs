@@ -2,9 +2,6 @@
 <div class="download">
 
 	<h1 class="large-header"><span class="black">Download Processing.</span> Processing is available for Linux, Mac OS X, and Windows. Select your choice to download the software below.</h1>
-	<? if($thankYou): ?>
-	<h5>Thank you for donating to the Processing Foundation.</h5>
-	<? endif; ?>
 
 	<!-- Current Version -->
 	<div class="current-version">
